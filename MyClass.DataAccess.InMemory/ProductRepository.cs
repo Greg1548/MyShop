@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 using System.Runtime.Caching;
 using MyShop.Core.Models;
 
-namespace MyClass.DataAccess.InMemory
+namespace MyShop.DataAccess.InMemory
 {
     public class ProductRepository
     {
